@@ -1,0 +1,2 @@
+Hello there!
+Building a strong foundation in git and github.
